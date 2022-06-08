@@ -71,7 +71,7 @@ if st.button('Predict'):
         st.header('Not Spam')
 
 html_link = """
-    <a href="https://github.com/rjtprasad/Potato-Leaf-Disease-Prediction" style="color:green;" target="_blank">Github</a><br>
+    <a href="https://github.com/rjtprasad/SMS-Spam-Classifier" style="color:green;" target="_blank">Github</a><br>
     <a href="https://www.linkedin.com/in/prasadrajat/" style="color:green;" target="_blank">LinkedIn</a>
     """
 
